@@ -1,0 +1,40 @@
+Injections
+- Supplying untrusted input
+
+Injection Types
+- SQL / LDAP / XML / DLL
+- Command Injection
+
+SQL Injection
+
+LDAP
+- Phone book of info for that service
+
+XML Injection
+- Sends request to application
+
+DLL Injection
+- Modify or supply malicious DLL
+
+Command Injection
+
+Attacks against system resources
+
+CPU
+Memory
+Network
+Storage
+
+Resources and Memory
+- Resource exhaustion
+- Memory leaks
+
+Driver Manipulation
+- Sophisticated attack
+- Modification of driver functionality
+ - Shimming
+   - Small libraries
+   - Perform actions, support legacy API
+ - Refactoring
+   - Modifying internal code
+   - Behaviour might not change
